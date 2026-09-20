@@ -1,4 +1,4 @@
-26838315176753387
+26840105106443417
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61879,6 +61879,13 @@ PQFN50P300X250X97-14N
 0
 14
 14
+FlightControllerFootprints
+SOT95P285X140-5N
+
+
+0
+5
+5
 FlightControllerFootprints
 TE_FSM4JSMA
 
