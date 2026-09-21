@@ -1,4 +1,4 @@
-26840105106443417
+26845508367331994
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61845,6 +61845,13 @@ BMP581
 10
 10
 FlightControllerFootprints
+CONN_503398-1892_MOL
+
+
+0
+14
+14
+FlightControllerFootprints
 GCT_USB4050-XX-X_REVA
 
 
@@ -61873,12 +61880,26 @@ JST_SM04B-GHS-TB_LF__SN_-
 6
 6
 FlightControllerFootprints
+JST_SM06B-GHS-TB_LF__SN_
+
+
+0
+8
+8
+FlightControllerFootprints
 PQFN50P300X250X97-14N
 
 
 0
 14
 14
+FlightControllerFootprints
+SM06B-SRSS-TB
+
+
+0
+8
+8
 FlightControllerFootprints
 SOT95P285X140-5N
 
