@@ -226,7 +226,16 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "pin_to_pin|584200|1346200|53c347c0-da09-45ec-bd25-ff073471999e|4cef6e06-3437-4f23-abb7-74e58cd4ff06|/59a8857d-7e28-460d-b230-aac287cc3347|/59a8857d-7e28-460d-b230-aac287cc3347|/59a8857d-7e28-460d-b230-aac287cc3347",
+        "I2C Mode: Address pin grounded"
+      ],
+      [
+        "power_pin_not_driven|939800|279400|8b5d3bbf-a9e0-4938-a449-e44d8d19eb55|00000000-0000-0000-0000-000000000000|/59a8857d-7e28-460d-b230-aac287cc3347|/59a8857d-7e28-460d-b230-aac287cc3347|",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
