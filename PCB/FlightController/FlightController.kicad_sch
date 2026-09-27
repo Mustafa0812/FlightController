@@ -9313,7 +9313,7 @@
 		)
 		(uuid "18d3e33a-5a65-4bea-95bf-132f72d1ac4c")
 	)
-	(label "ELRS_TX"
+	(label "ELRS_RX"
 		(at 260.35 151.13 180)
 		(effects
 			(font
@@ -9993,7 +9993,7 @@
 		)
 		(uuid "f90f00bd-0ee6-4c76-9f40-813112f1620a")
 	)
-	(label "ELRS_RX"
+	(label "ELRS_TX"
 		(at 260.35 153.67 180)
 		(effects
 			(font
@@ -12571,7 +12571,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 177.292 120.65 90)
 			(effects
 				(font
@@ -13729,7 +13729,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 160.528 163.83 90)
 			(effects
 				(font
